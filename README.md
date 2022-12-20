@@ -1,5 +1,5 @@
 # CompFLu2022
-Poster-34 by Abdul Wasim from JMLab @ TIFR Hyderabad.</br>
+Poster-G128 by Abdul Wasim from JMLab @ TIFR Hyderabad.</br>
 ## Refrences
 1. Valens, M., Penaud, S., Rossignol, M., Cornet, F. and Boccard, F., 2004. Macrodomain organization of the Escherichia coli chromosome. The EMBO journal, 23(21), pp.4330-4341 [(read)](https://www.embopress.org/doi/full/10.1038/sj.emboj.7600434)
 2. Mondal, J., Bratton, B.P., Li, Y., Yethiraj, A. and Weisshaar, J.C., 2011. Entropy-based mechanism of ribosome-nucleoid segregation in E. coli cells. Biophysical journal, 100(11), pp.2605-2613 [(read)](https://www.sciencedirect.com/science/article/pii/S0006349511004759)
